@@ -1,5 +1,4 @@
 # AsyncSync
-Queue
 
 ## 🚦 Multithreading. 
 
