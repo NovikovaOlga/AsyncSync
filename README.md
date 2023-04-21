@@ -2,7 +2,7 @@
 
 ## 🚦 Multithreading. 
 
-## 🚀 Capabilities
+## Capabilities
 <p>A few examples: loading an image in the background stream, including using effects, calculations in the background, a queue of tasks.</p>
 
 <p>
